@@ -7,7 +7,7 @@ While I already have some basic notions and foundational concepts of programming
 
 ---
 
-## 📄 License & Attribution
+## License & Attribution
 This repository contains my personal solutions to the exercises found in **Think Python: 3rd Edition** by Allen B. Downey. 
 * Original book: [Think Python: 3rd Edition](https://github.io)
 * Copyright © 2024 Allen B. Downey
